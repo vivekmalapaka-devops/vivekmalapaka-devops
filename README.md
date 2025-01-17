@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @vivekmalapaka-devops
 - 👀 I’m interested in dev-ops, developement, engineering leadership and all things tech
 - 🌱 I’m currently learning docker and kubernetes from udemy
-- 📫 How to reach me at vivek.m@profintech.in
+- 📫 you can reach out to me at vivek.m@profintech.in
 - 😄 Pronouns: he/him
 - ⚡ Fun fact: i like maps
 
